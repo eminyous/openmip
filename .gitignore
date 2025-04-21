@@ -175,5 +175,3 @@ cython_debug/
 
 .conda/
 .vscode/
-.openmip/
-main.py
