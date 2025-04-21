@@ -23,7 +23,7 @@ classifiers = [
     "Programming Language :: Python :: 3.13",
 ]
 
-dependencies = ["pandas", "filelock", "rich", "requests"]
+dependencies = ["pandas", "filelock", "rich", "requests", "lxml"]
 
 [project.optional-dependencies]
 dev = ["ruff"]
